@@ -1,0 +1,12 @@
+101;Arroz (Funda 1kg);1.50;45;1
+102;Azucar (Funda 1kg);1.25;60;1
+103;Leche (Funda 1L);1.00;25;1
+104;Galletas Saladas;0.80;70;2
+105;Aceite (1L);3.50;15;2
+106;Fideos (Paq 400g);0.60;40;1
+107;Atun en Lata (170g);1.35;35;2
+108;Huevos (Cubeta 30u);3.80;15;1
+109;Refresco (3L);2.50;30;3
+110;Papel Higienico (4u);2.25;25;2
+111;Detergente;2.10;45;3
+123;Cereal (300g);2.50;40;3
